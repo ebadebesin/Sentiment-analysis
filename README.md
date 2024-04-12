@@ -2,10 +2,11 @@
 
 Sentiment analysis, also known as opinion mining or emotion artificial intelligence, is a method that uses natural language processing (NLP), text analysis, computational linguistics, and biometrics to identify, extract, quantify, and study affective states and subjective information. It involves analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral.
 
+![Sentiment Analysis Example](S-A-pic1.jpeg)
+
 
 This is a sentiment analysis project to analyze tweets or texts involves several steps, from gathering and preparing data to training machine learning models.
 
-![Sentiment Analysis Example](S-A-pic1.jpeg)
 ---
 
 
